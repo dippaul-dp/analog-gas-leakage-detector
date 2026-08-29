@@ -109,7 +109,7 @@ If you reference this hardware architecture or cost analysis, please refer to th
 ```bibtex
 @misc{gas_detector_2026,
   title={A Cost-Efficient Multi-Threshold Gas Leakage Detector Using an MQ-2 Sensor and LM339 Comparators},
-  author={[Your Name / Project Team]},
+  author={[Dip Paul]},
   year={2026},
   note={Hardware Prototype Documentation}
 }
