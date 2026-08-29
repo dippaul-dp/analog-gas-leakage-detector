@@ -1,0 +1,14 @@
+# Hardware / PCB design artifacts
+*.b#*
+*.s#*
+*.l#*
+*.csv
+*.kicad_prl
+*.kicad_wrl
+*.bak
+*-bak
+
+# Operating system & IDE files
+.DS_Store
+Thumbs.db
+desktop.ini
